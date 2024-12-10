@@ -7,5 +7,7 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+  "@chrodriguez:registry": "https://npm.pkg.github.com"
 }
