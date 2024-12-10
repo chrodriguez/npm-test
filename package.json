@@ -9,5 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-  "@chrodriguez:registry": "https://npm.pkg.github.com"
+    "@chrodriguez:registry": "https://npm.pkg.github.com"
+  }
 }
